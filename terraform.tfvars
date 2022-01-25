@@ -1,0 +1,7 @@
+region = "us-east-1"
+cidr_vpc = "10.0.0.0/24"
+public_subnets = "10.0.0.128/26"
+private_subnets = "10.0.0.192/26"
+instance_ami_name = "ami-04505e74c0741db8d"
+az = "us-east-1b"
+aws_key_name = "dunnhumby-ssb"
